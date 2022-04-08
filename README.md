@@ -1,0 +1,1 @@
+# sample-template-for-spring-boot-h2-database
